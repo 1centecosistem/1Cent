@@ -1,1 +1,0 @@
-It is a token made for the Shiba Inu ecosystem community to specify present and future shib holders, and its main objective is for Shiba Inu to reach $0.01 cents, providing weekly burns of the red ERC20 SHIB token and thus reducing supply and revaluing its value over time.
